@@ -1,6 +1,8 @@
 apns-clerk.
 ===========
 
+NOTE: forked from https://bitbucket.org/iiilx/apns-clerk
+
 Python client for `Apple Push Notification service (APNs) <https://developer.apple.com/library/mac/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html>`_.
 
 This project is forked from apns-client, as there was a tiny but severe problem with SSL handshake rendering the package to be unusable.
